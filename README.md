@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-A simple Snake Game built with Python and Turtle Graphics.
+A simple Snake Game built with Python and Turtle Graphics while following Angela Yu's Python course.
 
 ## Gameplay
 
@@ -25,6 +25,7 @@ A simple Snake Game built with Python and Turtle Graphics.
 
 ## Project Structure
 
+```text
 Snake-Game/
 ├── main.py
 ├── snake.py
@@ -32,7 +33,3 @@ Snake-Game/
 ├── scoreboard.py
 ├── data.txt
 └── .gitignore
-
-## Credits
-
-This project was built as part of my learning journey through Angela Yu's Python course.
